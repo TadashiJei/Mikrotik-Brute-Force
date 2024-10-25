@@ -58,9 +58,9 @@ OPTIONS
 
 ### Example Usage
 ```bash
-python3 mikrotikapi-bf.py -t 192.168.0.200 -u manager -p 1337 -d /tmp/passwords.txt -s 5
-python3 mikrotikapi-bf.py -t 192.168.0.1 -d /tmp/passwords.txt
-python3 mikrotikapi-bf.py -t 192.168.0.1 -d /tmp/passwords.txt -a /tmp/autosave.json
+python3 main.py -t 192.168.0.200 -u manager -p 1337 -d /tmp/passwords.txt -s 5
+python3 main.py -t 192.168.0.1 -d /tmp/passwords.txt
+python3 main.py -t 192.168.0.1 -d /tmp/passwords.txt -a /tmp/autosave.json
 ```
 
 ## Technical Implementation Details
