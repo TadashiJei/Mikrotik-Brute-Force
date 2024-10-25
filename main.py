@@ -58,7 +58,7 @@ banner=('''
 def usage():
     print('''
     NAME
-    \t mikrotikapi-bf.py - Brute force attack tool on Mikrotik box credentials exploiting API requests\n
+    \t MikroTik-Brute-Fore.py - Brute force attack tool on Mikrotik box credentials exploiting API requests\n
     USAGE
     \t python mikrotikapi-bf.py [-t] [-p] [-u] [-d] [-s] [-q] [-a]\n
     OPTIONS
